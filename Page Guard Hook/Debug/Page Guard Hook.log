@@ -1,0 +1,3 @@
+﻿  dllmain.cpp
+C:\Users\ryanb\source\repos\Page Guard Hook\Page Guard Hook\dllmain.cpp(101,43): warning C4309: '=': truncamento de valor constante
+  Page Guard Hook.vcxproj -> C:\Users\ryanb\source\repos\Page Guard Hook\Debug\Page Guard Hook.dll
